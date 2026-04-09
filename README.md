@@ -2,13 +2,13 @@
 ## Technical Projects Portfolio
 
 ### Carzoom
-* **GitHub Repository**: [alvintwng/CarzoomApp](https://github.com/alvintwng/CarzoomApp)
+* **Repository Readme**: [alvintwng/CarzoomApp](https://github.com/alvintwng/CarzoomApp)
 
 * **Live Demo** (Azure): [http://52.231.70.65:8080](http://52.231.70.65:8080)
 
 * **Credentials**: user / user
 
-* **Tech Stack**: Java 11, Spring Boot, Oracle DB / PostgreSQL, Docker, Azure VM.
+* **Tech Stack**: Java 8, Spring Boot, Oracle DB / PostgreSQL, Docker, Azure VM.
 
 * **Description**: A comprehensive cohort project originally developed using Spring Boot and Oracle DB on Heroku. The live environment is currently deployed on an Azure Linux VM using Docker Compose to orchestrate the Java Spring application and a PostgreSQL database. A video demo is available in the repository README.
 

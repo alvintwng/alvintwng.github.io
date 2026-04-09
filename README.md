@@ -1,12 +1,11 @@
 # alvintwng.github.io
 
 ### Carzoom
-* Java project: [Carzoom](https://github.com/alvintwng/CarzoomAp)  
+* Java project: [github.com/alvintwng/CarzoomApp,](https://github.com/alvintwng/CarzoomAp)  
+    A breif project description with YouTube link.
+    
+    This live VM link, Where demonstrate use of Java 8, Spring with PostGresSql via docker images, docker compose.  
     Credential: `user` / `user`
-    
-    https://github.com/alvintwng/CarzoomApp, breif project description with YouTube link.
-    
-    This live VM link, Where demonstrate use of Java 8, Spring with PostGresSql via docker images, docker compose.
 
 ### Find a Trainer
 * VueJS showcase: [Find a Trainer](https://code-428b0.web.app/coaches)  

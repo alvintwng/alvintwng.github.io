@@ -10,7 +10,7 @@
 
 * **Tech Stack**: Java 8, Spring Boot, Oracle DB / PostgreSQL, Docker, Azure VM.
 
-* **Description**: A comprehensive cohort project originally developed using Spring Boot and Oracle DB on Heroku. The live environment is currently deployed on an Azure Linux VM using Docker Compose to orchestrate the Java Spring application and a PostgreSQL database. A video demo is available in the repository README.
+* **Description**: A comprehensive cohort project originally developed using Spring Boot and Oracle DB on Heroku. The live environment is currently deployed on an **Azure Linux VM** using **Docker Compose** to orchestrate the Java Spring application and a PostgreSQL database. A video demo is available in the repository README.
 
 ---
 ### Find a Trainer

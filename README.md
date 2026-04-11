@@ -5,6 +5,7 @@
 * **Guthub Repository**: [CarzoomApp](https://github.com/alvintwng/learnj)
 * **Live Demo** (Azure): [http://52.231.70.65:8080](http://52.231.70.65:8080)
 * **Credentials**: `user` / `user` OR `Marvel` / `marvel`
+* **youTube**:  [youtu.be/U4V75batZk8](https://youtu.be/U4V75batZk8)
 * **Tech Stack**: Java 8, Spring Boot, Oracle DB / PostgreSQL, Docker, Azure VM.
 
 * **Description**: A comprehensive cohort project originally developed using Spring Boot and Oracle DB on Heroku.  

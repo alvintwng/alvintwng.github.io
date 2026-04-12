@@ -3,7 +3,7 @@
 
 ### Carzoom
 * **Guthub Repository**: [CarzoomApp](https://github.com/alvintwng/learnj)
-* **Live Demo** (Azure): [http://52.231.70.65:8080](http://52.231.70.65:8080)
+* **Live Demo** (Azure): [http://20.196.194.83:8080](http://20.196.194.83:8080)
 * **Credentials**: `user` / `user` OR `Marvel` / `marvel`
 * **youTube**:  [youtu.be/U4V75batZk8](https://youtu.be/U4V75batZk8)
 * **Tech Stack**: Java 8, Spring Boot, Oracle DB / PostgreSQL, Docker, Azure VM.
@@ -15,7 +15,7 @@
 ---
 ### Python Flask & DevOps Showcase
 * **GitHub Repository**: [43525/pythonflask](https://github.com/43525/pythonflask)  
-* **Demo page**: [http://52.231.70.65:8081](http://52.231.70.65:8081)
+* **Demo page**: [http://20.196.194.83:8081](http://20.196.194.83:8081)
 * **Tech Stack**: Python, Flask, Docker, GitHub Actions, Docker Hub.
 
 * **Description**: This project focuses on **CI/CD** workflows.  

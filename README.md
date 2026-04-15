@@ -13,10 +13,10 @@
 
 
 ---
-### Python Flask & DevOps Showcase
+### Python Flask
 * **GitHub Repository**: [43525/pythonflask](https://github.com/43525/pythonflask)  
 * **Demo page**: [http://157.151.235.144/](http://157.151.235.144/)
-* **Tech Stack**: Python, Flask, Docker, GitHub Actions, Docker Hub.
+* **Tech Stack**: Python, Flask, Docker, MySql, GitHub Actions, Docker Hub.
 
 * **Description**: This project focuses on **CI/CD** workflows.  
    It demonstrates automated deployment using **GitHub Actions**; every update pushed to GitHub triggers a workflow that builds and pushes images to **Docker Hub**, which are then pulled to a live VM for deployment.

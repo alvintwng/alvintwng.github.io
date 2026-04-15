@@ -53,7 +53,7 @@
 * **Description**: A low-power **IoT** application built on the Espressif ESP32 platform.  
   This project showcases the integration of wireless networking with embedded power-saving techniques, written entirely in **C** using the native ESP-IDF framework.
 
-
+<!--
 ---
 ### pythonanywhere
 * **Live Application**: [alvinn.pythonanywhere.com](https://alvinn.pythonanywhere.com/)  
@@ -61,6 +61,6 @@
 * **Tech Stack**: Python, Flask, MySQL.
 
 * **Description**: A dedicated "scratchpad" environment used to demonstrate Python integration with **MySQL** databases in a hosted web environment.
-
+-->
 
 ---

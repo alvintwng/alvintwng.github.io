@@ -2,10 +2,10 @@
 ####  Technical Projects Portfolio
 
 ### Carzoom
-* **Guthub Repository**: [CarzoomApp](https://github.com/alvintwng/learnj)
+* **Guthub Repository**: [CarzoomApp](https://github.com/alvintwng/learnj) *(private)*
 * **Live Demo** (Azure): [http://20.196.194.83:8080](http://20.196.194.83:8080)
-* **Credentials**: `user` / `user` OR `Marvel` / `marvel`
-* **youTube**:  [youtu.be/U4V75batZk8](https://youtu.be/U4V75batZk8)
+   * **Credentials**: `user` / `user` OR `Marvel` / `marvel`
+* **YouTube**:  [youtu.be/U4V75batZk8](https://youtu.be/U4V75batZk8)
 * **Tech Stack**: Java 8, Spring Boot, Oracle DB / PostgreSQL, Docker, Azure VM.
 
 * **Description**: A comprehensive cohort project originally developed using Spring Boot and Oracle DB on Heroku.  
@@ -14,7 +14,7 @@
 
 ---
 ### Python Flask
-* **GitHub Repository**: [43525/pythonflask](https://github.com/43525/pythonflask)  
+* **GitHub Repository**: [43525/pythonflask](https://github.com/43525/pythonflask) *(private)*
 * **Demo page**: [http://157.151.235.144/](http://157.151.235.144/)
 * **Tech Stack**: Python, Flask, Docker, MySql, GitHub Actions, Docker Hub.
 
@@ -24,7 +24,7 @@
 
 ---
 ### Java Exercises & Foundations
-* **GitHub Repository**: [a-ntw/absoluteJava](https://github.com/a-ntw/absoluteJava) (private)
+* **GitHub Repository**: [a-ntw/absoluteJava](https://github.com/a-ntw/absoluteJava) *(private)*
 * **Focus**: Core Java Development.
 
 * **Description**: A repository containing over **100 solved exercises** covering fundamental and advanced Java concepts.  
@@ -34,7 +34,7 @@
 ---
 ### Find a Trainer
 * **Live Application**: [Find a Trainer](https://code-428b0.web.app/coaches)  
-* **Credential**: `password@p.sg` / `password`
+   * **Credential**: `password@p.sg` / `password`
 * **Tech Stack**: Vue.js, Firebase (Authentication & Real-time Database).
 
 * **Description**: A front-end showcase utilizing **Vue.js** for a dynamic user interface.  

@@ -2,7 +2,7 @@
 ####  Technical Projects Portfolio
 
 ### Carzoom
-* **Guthub Repository**: [CarzoomApp](https://github.com/alvintwng/learnj) *(private)*
+* **Github Repository**: [CarzoomApp](https://github.com/alvintwng/learnj) *(private)*
 * **Live Demo** (Azure): [http://20.196.194.83:8080](http://20.196.194.83:8080)
    * **Credentials**: `user` / `user` OR `Marvel` / `marvel`
 * **YouTube**:  [youtu.be/U4V75batZk8](https://youtu.be/U4V75batZk8)

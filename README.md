@@ -1,6 +1,12 @@
 # alvintwng.github.io
 ####  Technical Projects Portfolio
 
+### Resume Assistant
+* **Live Gem**: [Alvin Resume Assistant](https://gemini.google.com/gem/b82d75d2425c?usp=sharing)
+* **Certification**: Global - Cat2 - AI Generalist V3: AI at Work (Alumni Singapore - 2026)
+* **Tech Stack**: Google Gemini, Custom AI Gem / Agent Prompting, Prompt Engineering
+* **Description**: Built as a practical implementation following the completion of the *AI Generalist V3: AI at Work* course. This interactive AI Assistant leverages a custom-configured Gemini Gem to serve as an intelligent career agent—answering queries about my background, skill set, and technical portfolio in real-time.
+  
 ### Carzoom
 * **Github Repository**: [CarzoomApp](https://github.com/alvintwng/learnj) *(private)*
 * **Live Demo** (Azure): [http://20.196.194.83:8080](http://20.196.194.83:8080)

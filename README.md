@@ -2,10 +2,14 @@
 ####  Technical Projects Portfolio
 
 ### Résumé Assistant
-* **Live Gem**: Gemini [Alvin Resume Assistant](https://gemini.google.com/gem/b82d75d2425c?usp=sharing) <!-- alvin43xxx in Gemini gem, Google Drive -->
+* **Live Gem**: [Alvin Resume Assistant](https://gemini.google.com/gem/b82d75d2425c?usp=sharing) <!-- alvin43xxx in Gemini gem, Google Drive -->
+* **Tech Stack**: Prompt Engineering, Generative AI, Workflow Automation
+* **Description**: This interactive AI Assistant leverages a custom-configured Gemini Gem to serve as an intelligent career agent — answering queries about my background, skill set, and technical portfolio in real-time.
+
+<!--
 * **Course**: Global - Cat2 - AI Generalist V3: AI at Work (Alumni Singapore - 2026)
 * **Tech Stack**: Custom AI Gems, Prompt Engineering, Generative AI, Workflow Automation
-* **Description**: Built as a practical implementation following the completion of the *AI Generalist V3: AI at Work* course. This interactive AI Assistant leverages a custom-configured Gemini Gem to serve as an intelligent career agent—answering queries about my background, skill set, and technical portfolio in real-time.
+* **Description**: Built as a practical implementation following the completion of the *AI Generalist V3: AI at Work* course. This interactive AI Assistant leverages a custom-configured Gemini Gem to serve as an intelligent career agent—answering queries about my background, skill set, and technical portfolio in real-time. -->
   
 ### Carzoom
 * **Github Repository**: [CarzoomApp](https://github.com/alvintwng/learnj) *(private)*

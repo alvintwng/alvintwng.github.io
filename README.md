@@ -5,6 +5,7 @@
 * **Live Gem**: [Alvin Resume Assistant](https://gemini.google.com/gem/b82d75d2425c?usp=sharing) <!-- alvin43xxx in Gemini gem, Google Drive -->
 * **Tech Stack**: Prompt Engineering, Generative AI, Workflow Automation
 * **Description**: This interactive AI Assistant leverages a custom-configured Gemini Gem to serve as an intelligent career agent — answering queries about my background, skill set, and technical portfolio in real-time.
+* [View badge](https://www.credly.com/badges/63d8f4b4-40f5-4cc0-b873-aad372250c15/public_url)
 
 <!--
 * **Course**: Global - Cat2 - AI Generalist V3: AI at Work (Alumni Singapore - 2026)
